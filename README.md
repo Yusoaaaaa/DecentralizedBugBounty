@@ -1,22 +1,22 @@
 # Stellar Bug Bounty Platform
 
 ## Problem
-Các nền tảng săn lỗi nhận thưởng truyền thống thường thiếu minh bạch trong khâu kiểm duyệt và chậm trễ trong quá trình giải ngân tiền thưởng cho các nhà nghiên cứu bảo mật.
+Traditional bug bounty platforms often lack transparency in the review process and suffer from delayed payout distributions to security researchers.
 
 ## Solution
-Một ứng dụng phi tập trung (dApp) cho phép các tổ chức tạo chương trình Bug Bounty, lưu trữ tiền thưởng an toàn trên hợp đồng thông minh và tự động giải ngân ngay khi báo cáo lỗi được phê duyệt.
+A decentralized application (dApp) that allows organizations to create bug bounty programs, securely lock reward pools within smart contracts, and automatically distribute payouts as soon as a vulnerability report is approved.
 
 ## Why Stellar
-Tính năng Hợp đồng thông minh Soroban kết hợp với chi phí giao dịch cực thấp và tốc độ xử lý nhanh của mạng lưới Stellar giúp việc quản lý quỹ thưởng minh bạch, phân quyền và tối ưu chi phí.
+Soroban Smart Contracts on Stellar offer decentralized, transparent fund management with extremely low transaction fees and fast execution speeds, making bounty pool operations highly cost-effective.
 
 ## Target User
-Các tổ chức/dự án Web3 cần tìm kiếm lỗ hổng bảo mật và các nhà nghiên cứu bảo mật (White-hat Hackers) muốn săn lỗi nhận thưởng công bằng.
+Web3 organizations/projects looking to surface security vulnerabilities and white-hat hackers seeking fair, automated bug bounty rewards.
 
 ## Live Demo
 - Network: Stellar Testnet
 
 - **Contract ID**: `CCCHE44FJ7EW23I4AHFREYAYZFT6DCHEDWMGSZPKTPOMFRJDSF6MO76G`
-- **Transaction**: https://stellar.expert/explorer/testnet/tx/88b83ab0b938f32cf8e51b14b8a1cba23947ca79bc37f1e67bd873604da2b062 (Vui lòng thay thế bằng mã Tx Hash nạp tiền/deploy thực tế của bạn)
+- **Transaction**: https://stellar.expert/explorer/testnet/tx/88b83ab0b938f32cf8e51b14b8a1cba23947ca79bc37f1e67bd873604da2b062 (Please replace this with your actual deposit/deployment Tx Hash if needed)
 
 ## How to Run
 1. Clone: `git clone https://github.com/yourname/stellar-bug-bounty.git`
@@ -32,4 +32,4 @@ Các tổ chức/dự án Web3 cần tìm kiếm lỗ hổng bảo mật và cá
 - Network: Stellar Testnet
 
 ## Team
-- [Lâm Vũ Bằng] | [bangcongcong1@gmail.com] | [Hutech + sinh viên năm 3]
+- Lâm Vũ Bằng | [bangcongcong1@gmail.com] | Hutech University 
